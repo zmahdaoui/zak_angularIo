@@ -1,0 +1,27 @@
+{
+  "name": "angulario",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zmahdaoui/zak_angularIo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zmahdaoui/zak_angularIo/issues"
+  },
+  "homepage": "https://github.com/zmahdaoui/zak_angularIo#readme",
+  "dependencies": {},
+  "description": "",
+  "devDependencies": {
+    "@types/jest": "^24.0.13",
+    "@types/node": "^12.0.2",
+    "jest": "^24.8.0",
+    "ts-jest": "^24.0.2",
+    "typescript": "^3.4.5"
+  }
+}
